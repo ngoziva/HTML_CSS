@@ -1,0 +1,51 @@
+/* Selection by Tag */
+
+div{
+    properties: value;
+    background-color: brown;
+    width: 450px;
+    height: 100px;
+    margin: 20px;
+
+}
+
+#firstsection{
+    text-align: center;
+    border: 1px solid blue; 
+
+}
+
+
+section{
+    border: 1px solid red;
+}
+
+/* Selection by Class */
+
+.studentsection{
+    border: 5px dotted black;
+    border-radius: 8px;
+
+}
+
+.section{
+    border: 10px dotted blue;
+    border-radius: 8px;
+    
+}
+
+#secondsection{
+    border: 10px dotted red;
+    border-radius: 8px;
+    
+}
+
+section .secchild{
+    color: chocolate;
+}
+
+
+
+
+
+
